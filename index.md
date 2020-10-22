@@ -16,4 +16,8 @@ Er ist einfach da, er liebt Fledermäuse und Leonie. Aber am meisten findet er l
 - Ist ein Fan von Meister Ramler
 - weiß nicht wie man ein Bild einfügt
 - will seinen Sohn Egon nennen
+ 
+### Zitat 
+
+"Wer schön sein will muss reich sein"
 - 
